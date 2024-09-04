@@ -1,5 +1,7 @@
 site_name: obsidian-mkdocs template
 
+docs_dir: TestNotes
+
 theme:
     name: 'material'
     palette:
