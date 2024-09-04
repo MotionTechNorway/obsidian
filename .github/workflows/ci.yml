@@ -42,12 +42,12 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-rss-plugin
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: gh-deploy
+          path: site
 
   # Deployment job
   deploy:
