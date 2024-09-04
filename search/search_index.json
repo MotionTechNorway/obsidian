@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"Welcome/","title":"Welcome","text":"<p>This is your new vault.</p> <p>Make a note of something, [[create a link]], or try the Importer!</p> <p>When you're ready, delete this note and make the vault your own.</p>"},{"location":"blog/","title":"Blog","text":""}]}
