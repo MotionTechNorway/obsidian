@@ -1,6 +1,7 @@
 site_name: obsidian-mkdocs template
 
 docs_dir: TestNotes
+site_url: https://motiontechnorway.github.io/obsidian
 
 theme:
     name: 'material'
