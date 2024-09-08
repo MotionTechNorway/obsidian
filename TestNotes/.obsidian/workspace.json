@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folder/Another page.md",
+                "file": "RUT 241 VPN/General Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folder/Another page.md",
+                "file": "RUT 241 VPN/General Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folder/Another page.md",
+                "file": "RUT 241 VPN/General Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folder/Another page.md"
+                "file": "RUT 241 VPN/General Setup.md"
               }
             }
           }
@@ -173,8 +173,17 @@
   },
   "active": "df59497b33bdadbe",
   "lastOpenFiles": [
-    "Welcome.md",
+    "RUT 241 VPN/files/Pasted image 20240908142332.png",
+    "RUT 241 VPN/files",
+    "RUT 241 VPN/Pasted image 20240908142249.png",
+    "RUT 241 VPN/General Setup.md",
+    "RUT 241 VPN/OpenVPN Setup.md",
+    "RUT 241 VPN/Pasted image 20240908142157.png",
+    "Pasted image 20240908141951.png",
+    "RUT 241 VPN/Untitled 1.md",
     "Folder/Another page.md",
+    "RUT 241 VPN",
+    "Welcome.md",
     "Folder/Test Page.md",
     "create a link.md",
     "Folder",
