@@ -1,4 +1,3 @@
-![[Pasted image 20240908145449.png]]
 # Upgrade the Firmware
 
 In order for the router to allow custom APNs, the router modem and device firmware had to be updated to the latest version.
