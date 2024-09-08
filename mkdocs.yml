@@ -1,6 +1,5 @@
 site_name: TestNotes
-
-docs_dir: TestNotes
+docs_dir: ./TestNotes
 site_url: https://motiontechnorway.github.io/obsidian
 
 theme:
