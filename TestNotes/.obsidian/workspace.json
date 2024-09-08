@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb475cff833d98d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4694c8f6454fa30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Folder/Test Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df59497b33bdadbe",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,18 +148,18 @@
   },
   "active": "df59497b33bdadbe",
   "lastOpenFiles": [
+    "index.md",
+    "Folder/Test Page.md",
+    "RUT 241 VPN/General Setup.md",
     "RUT 241 VPN/files/Pasted image 20240908142332.png",
     "RUT 241 VPN/files",
     "RUT 241 VPN/Pasted image 20240908142249.png",
-    "RUT 241 VPN/General Setup.md",
     "RUT 241 VPN/OpenVPN Setup.md",
     "RUT 241 VPN/Pasted image 20240908142157.png",
     "Pasted image 20240908141951.png",
     "RUT 241 VPN/Untitled 1.md",
     "Folder/Another page.md",
     "RUT 241 VPN",
-    "Welcome.md",
-    "Folder/Test Page.md",
     "create a link.md",
     "Folder",
     "blog/index.md",

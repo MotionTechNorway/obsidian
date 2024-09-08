@@ -1,2 +1,2 @@
 
-This is a link to [[Welcome]]
+This is a link to [[index]]
