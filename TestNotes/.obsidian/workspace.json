@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27d96073e85e68f4",
+        "id": "f27a55e3bed7a98b",
         "type": "tabs",
         "children": [
           {
-            "id": "df59497b33bdadbe",
+            "id": "a3bd5cab0a119081",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df59497b33bdadbe",
+  "active": "a3bd5cab0a119081",
   "lastOpenFiles": [
+    "Folder/Test Page.md",
+    "Folder/Another page.md",
+    "RUT 241 VPN/General Setup.md",
     "RUT 241 VPN/files/Pasted image 20240908145449.png",
     "RUT 241 VPN/files/Pasted image 20240908145346.png",
     "index.md",
-    "RUT 241 VPN/General Setup.md",
-    "Folder/Test Page.md",
     "RUT 241 VPN/files/Pasted image 20240908142332.png",
     "RUT 241 VPN/files",
     "RUT 241 VPN/Pasted image 20240908142249.png",
@@ -160,7 +161,6 @@
     "RUT 241 VPN/Pasted image 20240908142157.png",
     "Pasted image 20240908141951.png",
     "RUT 241 VPN/Untitled 1.md",
-    "Folder/Another page.md",
     "RUT 241 VPN",
     "create a link.md",
     "Folder",
